@@ -11,7 +11,7 @@ Some incompatibilties compared to the *Arrays TS* (which has been withdrawn at t
   - [ ] Does not use an `Allocator`
   - [ ] Missing `dynarray(size_type, const <T>& value)` constructor
   - [ ] Adds  `template<InputIt> dynarray(InputIt first, InputIt last)` constructor
-  - [ ] Does not specialize `std::uses_allactor`
+  - [ ] Does not specialize `std::uses_allocator`
   - [ ] Possibly incorrect implementation of `max_size()`
   - [ ] Uses `morrisonlevi` namespace instead of `std::`
 
