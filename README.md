@@ -17,6 +17,7 @@ Some incompatibilties compared to the *Arrays TS* (which has been withdrawn at t
 
 Some other todo items:
 
+  - [ ] Revisit which methods should be `constexpr`
   - [ ] Pick a license
   - [ ] Show examples in this README
   - [ ] Pick a test framework
